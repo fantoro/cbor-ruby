@@ -27,6 +27,8 @@
 #ifndef MSGPACK_RUBY_COMPAT_H__
 #define MSGPACK_RUBY_COMPAT_H__
 
+#include <stdbool.h>
+
 #include "ruby.h"
 
 #if defined(HAVE_RUBY_ST_H)
