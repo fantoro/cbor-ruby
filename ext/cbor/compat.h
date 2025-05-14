@@ -24,10 +24,9 @@
  *    See the License for the specific language governing permissions and
  *    limitations under the License.
  */
+#include <stdbool.h>
 #ifndef MSGPACK_RUBY_COMPAT_H__
 #define MSGPACK_RUBY_COMPAT_H__
-
-#include <stdbool.h>
 
 #include "ruby.h"
 
