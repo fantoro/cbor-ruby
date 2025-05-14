@@ -25,6 +25,7 @@
  *    limitations under the License.
  */
 
+#include <stdbool.h>
 #include "buffer.h"
 #include "rmem.h"
 
